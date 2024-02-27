@@ -1,0 +1,148 @@
+Band gap
+Band gaps
+band gap
+band gaps
+bandgap
+Formation energy
+formation energy
+SpecificHeat
+Specific Heat
+specific heat
+specificheat
+FirstIonization
+First-Ionization
+firstionization
+first ionization
+NumberofNeutrons
+Number of Neutrons
+Number of neutrons
+number of neutrons
+Tolerance factor
+tolerance factor
+Octahedral factor
+octahedral factor
+MeltingPoint
+Melting Point
+Melting point
+melting point
+AtomicMass
+Atomic Mass
+Atomic mass
+atomic mass
+NumberofShells
+Number of Shells
+Number of shells
+number of shells
+Propylene glycol
+Acetic acid
+Acetic Acid
+acetic acid
+Toluene
+toluene
+nmp
+NMP
+methanol
+Methanol
+acetic acid
+Acetic Acid
+Benzyl alcohol
+benzyl alcohol
+Benzyl Alcohol
+benzyl Alcohol
+butylamine
+Butylamine
+ethyl acetate
+Ethyl Acetate
+GBL
+gbl
+Acetonitrile
+acetonitrile
+1,2-Propanediol
+1,2-propanediol
+α-propyle
+α-Propyle
+hexane
+Hexane
+IPA
+ipa
+ethyl alcohol
+Ethyl Alcohol
+1,2-dichlorobenzene
+1,2-Dichlorobenzene
+DMAC
+dmac
+TEA
+tea
+acetone
+Acetone
+Ethylene glycol
+ethylene Glycol
+Ethylene Glycol
+ethylene glycol
+ethanoic acid
+Ethanoic Acid
+ethanoic Acid
+Ethanoic acid
+acetic acid
+orthodichlorobenzene
+Orthodichlorobenzene
+N,N-Dimethylacetamide
+DMAC
+dmac
+dimethylacetoneamide
+Dimethylacetoneamide
+Dimethylacetamide
+dimethylacetamide
+aminobutane
+Aminobutane
+1-Butylamine
+1-butylamine
+Butylamine
+butylamine
+aminobutane
+Aminobutane
+Ethyl acetate
+ethyl Acetate
+acetic ester
+Acetic Ester
+Acetic ester
+acetic Ester
+C4H8O2
+Acetidin
+acetidin
+C7H8O
+BP
+bp
+eac
+EAC
+Butylamin
+butylamin
+EA
+ea
+n-butylamine
+CH3(CH2)3NH2
+C4H11N
+NBA
+gamma-butyrolactone
+γ-butyrolactone
+γ-Butyrolactone
+halide bond
+Halogen bond
+halogen bond
+Halide bond
+Halide Bond
+Halogen Bond
+SnO_2 
+TiO_2 
+ZnO 
+PCDTBT 
+Spiro-OMeTAD 
+PBDTTPPD 
+P_3HT 
+WO_3 
+CuS 
+CuI 
+Fe_3O_4 
+PBDB-T 
+MAPbI_3 
+MAPbBr_3
